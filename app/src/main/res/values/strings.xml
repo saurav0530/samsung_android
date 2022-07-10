@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><b>SAMSUNG</b></string>
+    <string name="camera">CAMERA</string>
+    <string name="process">RESULT</string>
+    <string name="upload">GET RESULT</string>
+    <string name="browse">BROWSE</string>
+    <string name="description">Image</string>
+</resources>
